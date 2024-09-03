@@ -44,11 +44,17 @@ Key Performance Indicators (KPIs): Customized KPIs that provide insights into se
 
 ## Features
 Comprehensive Access Tracking: Monitors user access within SAP systems on a granular level.
+
 Efficient Permission Management: Ensures that users have only the necessary permissions, minimizing security risks.
+
 Proactive Security Alerts: Identifies and alerts for access that exceeds defined thresholds.
+
 Detailed Data Logs: Extracts and logs data necessary for thorough security audits.
+
 Secure Cloud Storage: Utilizes Atlas Cloud to securely store extracted data.
+
 Advanced Data Cleaning and Transformation: Cleans and transforms data in Power BI, enhancing its quality and usability.
+
 Interactive Visualizations and Reports: Provides dynamic tables, visualizations, and KPIs for deep analysis.
 
 ## Automation
