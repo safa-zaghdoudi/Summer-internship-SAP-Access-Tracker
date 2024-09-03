@@ -42,7 +42,7 @@ Data Visualization and KPI Reporting: Post-cleaning, the data is visualized in P
 Transaction Tables: Detailed tables for each type of transaction with filters to allow users to view data with specific parameters.
 Key Performance Indicators (KPIs): Customized KPIs that provide insights into security and access patterns, enabling quick and informed decision-making.
 
-##Features
+## Features
 Comprehensive Access Tracking: Monitors user access within SAP systems on a granular level.
 Efficient Permission Management: Ensures that users have only the necessary permissions, minimizing security risks.
 Proactive Security Alerts: Identifies and alerts for access that exceeds defined thresholds.
