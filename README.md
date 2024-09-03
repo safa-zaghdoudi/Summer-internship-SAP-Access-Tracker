@@ -24,19 +24,24 @@ SAP Access Tracker follows a rigorous process to ensure data integrity, security
 Data Extraction: Extracts a comprehensive dataset containing:
 
 SAP Transaction Entries: A detailed log of every transaction.
+
 Account Information: Identifies the user account that performed each transaction.
+
 Entity Details: Specifies the entity to which each account belongs.
+
 Transaction Type: Classifies each transaction as either TCode or report.
+
 Entry Details: Provides specifics for each transaction, aiding in auditing and security assessments.
+
 Secure Storage in Atlas Cloud: The extracted data is securely stored in Atlas Cloud, a robust cloud platform that ensures data privacy and integrity. This centralized repository facilitates effective access management and auditing.
 
 Data Cleaning and Transformation in Power BI: Using an ODBC driver connection, the data is sent to Power BI where it undergoes thorough cleaning and preparation, including:
-
 Changing column types to ensure data consistency.
 Deleting unnecessary data to enhance clarity and focus.
 Managing errors and resolving inconsistencies.
 Replacing missing values for completeness.
 Sorting and organizing the data for efficient analysis.
+
 Data Visualization and KPI Reporting: Post-cleaning, the data is visualized in Power BI through:
 
 Transaction Tables: Detailed tables for each type of transaction with filters to allow users to view data with specific parameters.
@@ -64,10 +69,15 @@ The entire process is automated to run daily using Windows Task Scheduler. This 
 We welcome contributions to the SAP Access Tracker project! To contribute:
 
 Fork the repository.
+
 Create a new branch (git checkout -b feature-branch).
+
 Make your changes.
+
 Commit your changes (git commit -m 'Add a new feature').
+
 Push to the branch (git push origin feature-branch).
+
 Open a Pull Request.
 
 ## License
