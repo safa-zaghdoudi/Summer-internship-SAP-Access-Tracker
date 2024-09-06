@@ -15,7 +15,7 @@ SAP Access Tracker is a robust security tool designed for organizations to effec
 
 ## Introduction
 
-SAP Access Tracker is essential for organizations looking to enforce robust access management practices within SAP environments. It tracks user access on a per-account or per-entity basis, ensuring that each client has the necessary permissions without exceeding what's required—minimizing security risks. The tool is versatile, handling both TCode and report transactions to provide a comprehensive security overview.
+SAP Access Tracker is essential for our organizations looking to enforce robust access management practices within SAP environments. It tracks user access on a per-account or per-entity basis, ensuring that each client has the necessary permissions without exceeding what's required—minimizing security risks. The tool is versatile, handling both TCode and report transactions to provide a comprehensive security overview.
 
 ## Data Extraction, Storage, Cleaning, and Visualization
 
@@ -29,7 +29,7 @@ Account Information: Identifies the user account that performed each transaction
 
 Entity Details: Specifies the entity to which each account belongs.
 
-Transaction Type: Classifies each transaction as either TCode or report.
+Transaction Type: Classifies each entry as either TCode or report.
 
 Entry Details: Provides specifics for each transaction, aiding in auditing and security assessments.
 
@@ -50,20 +50,18 @@ Key Performance Indicators (KPIs): Customized KPIs that provide insights into se
 ## Features
 Comprehensive Access Tracking: Monitors user access within SAP systems on a granular level.
 
-Efficient Permission Management: Ensures that users have only the necessary permissions, minimizing security risks.
-
-Proactive Security Alerts: Identifies and alerts for access that exceeds defined thresholds.
+Efficient Permission Management: Helps to ensure that users have only the necessary permissions, minimizing security risks.
 
 Detailed Data Logs: Extracts and logs data necessary for thorough security audits.
 
 Secure Cloud Storage: Utilizes Atlas Cloud to securely store extracted data.
 
-Advanced Data Cleaning and Transformation: Cleans and transforms data in Power BI, enhancing its quality and usability.
+Data Cleaning and Transformation: Cleans and transforms data in Power BI, enhancing its quality and usability.
 
 Interactive Visualizations and Reports: Provides dynamic tables, visualizations, and KPIs for deep analysis.
 
 ## Automation
-The entire process is automated to run daily using Windows Task Scheduler. This automation ensures that data remains current, providing up-to-date insights and maintaining a secure SAP environment. The daily updates help organizations quickly identify and respond to any potential security threats.
+The entire process is automated to run daily using Windows Task Scheduler. This automation ensures that data remains current, providing up-to-date insights and maintaining a secure SAP environment. The daily updates help to quickly identify and respond to any potential security threats.
 
 ## Contributing
 We welcome contributions to the SAP Access Tracker project! To contribute:
