@@ -9,7 +9,6 @@ SAP Access Tracker is a robust security tool designed for organizations to effec
 - [Features](#features)
 - [Automation](#automation)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -77,8 +76,6 @@ Push to the branch (git push origin feature-branch).
 
 Open a Pull Request.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
 For more information or support, please contact:
