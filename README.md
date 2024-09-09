@@ -60,6 +60,8 @@ Interactive Visualizations and Reports: Provides dynamic tables, visualizations,
 
 ## Automation
 The entire process is automated to run daily using Windows Task Scheduler. This automation ensures that data remains current, providing up-to-date insights and maintaining a secure SAP environment. The daily updates help to quickly identify and respond to any potential security threats.
+The extraction of the data happens daily using Windows task scheduler that runs the script.
+The Report is updated daily using Power BI Service's Gateway.
 
 ## Contributing
 We welcome contributions to the SAP Access Tracker project! To contribute:
