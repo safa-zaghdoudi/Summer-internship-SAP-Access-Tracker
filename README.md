@@ -63,22 +63,3 @@ The entire process is automated to run daily using Windows Task Scheduler. This 
 The extraction of the data happens daily using Windows task scheduler that runs the script.
 The Report is updated daily using Power BI Service's Gateway.
 
-## Contributing
-We welcome contributions to the SAP Access Tracker project! To contribute:
-
-Fork the repository.
-
-Create a new branch (git checkout -b feature-branch).
-
-Make your changes.
-
-Commit your changes (git commit -m 'Add a new feature').
-
-Push to the branch (git push origin feature-branch).
-
-Open a Pull Request.
-
-
-## Contact
-For more information or support, please contact:
-Your Name - your-email@example.com
