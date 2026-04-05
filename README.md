@@ -8,8 +8,6 @@ SAP Access Tracker is a robust security tool designed for organizations to effec
 - [Data Extraction, Storage, Cleaning, and Visualization](#data-extraction-storage-cleaning-and-visualization)
 - [Features](#features)
 - [Automation](#automation)
-- [Contributing](#contributing)
-- [Contact](#contact)
 
 ## Introduction
 
